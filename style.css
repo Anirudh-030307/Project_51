@@ -1,0 +1,30 @@
+h1{
+    margin-left: 100px;
+    padding-left: 200px;
+    border: 2px solid;
+    color: #0000ff
+}
+p{
+    color: #ff0000;
+}
+ol{
+    margin-left: 100px;
+    padding-left: 200px;
+    border: 2px solid;
+    color: #ff00ff
+}
+ul{
+    margin-left: 100px;
+    padding-left: 200px;
+    border: 2px solid;
+    color: #0000ff;
+}
+.design{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap ;
+    justify-content: space-evenly;
+}
+*{
+    background-color: #ffd700;
+}
